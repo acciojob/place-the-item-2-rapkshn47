@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+div{
+	width :100px;
+	height: 100px;
+}
+
+body{
+	display :  flex;
+	flex-flow : row wrap;
+	justify-content: center;
+}
+.item1{
+	background-color: green
+}
+.item2{
+	background-color:red;
+}
